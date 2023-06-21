@@ -13,7 +13,7 @@ occupation: Data Scientist
 education:
   Nod Data Analytics coding bootcamp:
     - Stockholm, Sweden
-  PhD Biomedicine:
+  PhD Biomedicine (Translational Genetics and Molecular Epidemiology):
     - Uppsala, Sweden
   MSc Molecular Biology and Systems Biology:
     - Skovde, Sweden
